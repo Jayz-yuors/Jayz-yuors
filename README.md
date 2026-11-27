@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Jayz-yuors">
+<a href="https://github.com/Jayz-yuors?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-9FE870?style=for-the-badge&logo=github&logoColor=101820" />
 </a>
 
